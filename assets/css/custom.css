@@ -130,7 +130,7 @@ font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
     width: 100%;
 }
 .bg-img{
- background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.75)), url(/Café/assets/img/hero-img.jpg);
+ background-image: linear-gradient(rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0.75)), url(/testeo/assets/img/hero-img.jpg);
  height: calc(100vh - 57px);
  background-size:cover;   
 }
