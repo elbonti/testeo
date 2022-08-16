@@ -326,3 +326,15 @@ p{
 .barrai{
     background-color: #261A17;
 }
+
+.item {
+    border-bottom: 1px dotted #c5c5c5;
+    break-inside: avoid;
+    display: flex;
+    justify-content: space-between;
+  }
+  .price:before {
+    content:'$ ';
+    font-size:17px;
+    font-weight:100;
+  }
